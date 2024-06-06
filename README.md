@@ -1,4 +1,4 @@
-## Hi there 👋
+Honors Mechanical Engineering Student @ North Carolina Agracultural & Technical State University
 
 <!--
 **creese04/creese04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
